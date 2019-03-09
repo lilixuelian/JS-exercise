@@ -1,0 +1,1 @@
+const arrWithoutLoop = (n) =>[...Array(n)].map((x, i) => i)
